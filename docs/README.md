@@ -7,11 +7,11 @@ The documentation is generated for each commit in the master branch. Therefore, 
 1. Download and install latest version of Python from [here](https://www.python.org/downloads/)
 2. Clone the repo
 
-   `git clone https://github.com/ccertify-project/Tech-Documentation.git`
+   `git clone https://github.com/ccertify-project/certify-docs.git`
 3. Install dependencies
 
    ```
-   cd Tech-Documentation/docs
+   cd certify-docs/docs
    pip3 install -r requirements.txt
    ```
 ### Build
